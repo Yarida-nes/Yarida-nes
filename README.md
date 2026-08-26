@@ -1,6 +1,6 @@
 # Hi, I'm Yarida Kaewthong (Nest) 👋
 
-**Master of Commerce, Artificial Intelligence and Business Analytics · Curtin University, Perth**
+**Master of Commerce, Artificial Intelligence and Business Analytics · Curtin University, Perth, WA Australia**
 
 I started in Geography, where I learned to find patterns in real-world data, and moved into analytics. I now build regression and classification models in **R**, interactive dashboards in **Tableau and Power BI**, and query and prepare data with **SQL and Python**. Currently seeking an **internship or graduate role in data analytics or business analytics in Perth**.
 
