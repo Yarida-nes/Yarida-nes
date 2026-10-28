@@ -36,7 +36,7 @@ A three-dashboard Tableau Story testing whether ESG, governance and financial pe
 
 `Tableau` `Data storytelling` `ESG and governance analysis`
 
-👉 **[View it live on Tableau Public](https://public.tableau.com/views/23020243_Kaewthong_viz/Story1)** · **[Full write-up](https://yarida-cv.vercel.app/esg.html)**
+👉 **[Code on GitHub](https://github.com/Yarida-nes/apac-esg-financial-analysis)** · **[View it live on Tableau Public](https://public.tableau.com/views/23020243_Kaewthong_viz/Story1)** · **[Full write-up](https://yarida-cv.vercel.app/esg.html)**
 
 ### Credit Risk: What the Loan Data Shows — R
 With two classmates, cleaned **32,581 loan records down to 28,578** and found that one loan in five had defaulted. Explored what separates defaulters, then measured how much a regression on income could explain (R² 0.34).
@@ -57,7 +57,7 @@ A conversational weather application that pulls live forecast data, visualises i
 
 `Python` `APIs` `Data visualisation`
 
-👉 **[Code on GitHub](https://github.com/Yarida-nes/weatherwise-Yarida-Kaewthong)** · **[Full write-up](https://yarida-cv.vercel.app/weatherwise.html)**
+👉 **[Code on GitHub](https://github.com/Yarida-nes/weatherwise.Yarida)** · **[Full write-up](https://yarida-cv.vercel.app/weatherwise.html)**
 
 ---
 
