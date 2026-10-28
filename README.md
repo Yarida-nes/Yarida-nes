@@ -39,11 +39,11 @@ A three-dashboard Tableau Story testing whether ESG, governance and financial pe
 👉 **[Code on GitHub](https://github.com/Yarida-nes/apac-esg-financial-analysis)** · **[View it live on Tableau Public](https://public.tableau.com/views/23020243_Kaewthong_viz/Story1)** · **[Full write-up](https://yarida-cv.vercel.app/esg.html)**
 
 ### Credit Risk: What the Loan Data Shows — R
-With two classmates, cleaned **32,581 loan records down to 28,578** and found that one loan in five had defaulted. Explored what separates defaulters, then measured how much a regression on income could explain (R² 0.34).
+With two classmates, cleaned **32,581 loan records down to 28,578** and found that one loan in five had defaulted. Explored what separates defaulters, measured how much a regression on income could explain (R² 0.34), and built a logistic model of default (test AUC 0.85).
 
 `R` `R Markdown` `Data cleaning` `Regression`
 
-👉 **[Full write-up](https://yarida-cv.vercel.app/credit-risk.html)**
+👉 **[Code on GitHub](https://github.com/Yarida-nes/credit-risk-loan-data)** · **[Full write-up](https://yarida-cv.vercel.app/credit-risk.html)**
 
 ### Econometric Housing Price Analysis, Australia — R
 Five regression models of housing price growth across Australian cities, built in RStudio and R Markdown using macroeconomic, seasonal and COVID-19 variables. Compared models on R-squared, adjusted R-squared, RMSE and MAE, and produced actual-versus-predicted plots to support economic interpretation.
