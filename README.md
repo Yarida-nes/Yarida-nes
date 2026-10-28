@@ -22,35 +22,42 @@ Analysed **142,875 real Victorian crash records (2012–2025)**, focusing on 30,
 
 `R` `sf` `Hot-spot analysis` `GIS map layout`
 
-👉 **[Code on GitHub](https://github.com/Yarida-nes/-melbourne-walking-cycling-safety)** · **[Full write-up](https://yarida-cv.vercel.app/melbourne-crash.html)**
+👉 **[Code on GitHub](https://github.com/Yarida-nes/-melbourne-walking-cycling-safety)** · **[Full write-up](https://yarida-cv.vercel.app/melbourne-crash.html)** · **[Try the demo](https://yarida-cv.vercel.app/try-it.html#speed)**
 
 ### Published Research: Drugstore Access in Thailand — GIS
 Co-authored paper at the 2023 Asian Conference on Remote Sensing. Mapped 433 drugstores and used network analysis and location-allocation to show 22 well-placed pharmacies would raise coverage from 199 to 417 of 511 villages.
 
 `GIS` `Network analysis` `Location-allocation`
 
-👉 **[Read the write-up](https://yarida-cv.vercel.app/drugstores.html)**
+👉 **[Read the write-up](https://yarida-cv.vercel.app/drugstores.html)** · **[Try the demo](https://yarida-cv.vercel.app/try-it.html#pharmacies)**
 
 ### ESG and Financial Analytics across Asia-Pacific Markets — Tableau
 A three-dashboard Tableau Story testing whether ESG, governance and financial performance move together across **eight Asia-Pacific markets**. Built calculated fields, parameters, dashboard actions and forecasting, analysing ESG Score, ROA, Tobin's Q, market-to-book, market capitalisation, CEO duality, board diversity and ESG controversies, then wrote a business analyst report with recommendations for firms.
 
 `Tableau` `Data storytelling` `ESG and governance analysis`
 
-👉 **[View it live on Tableau Public](https://public.tableau.com/views/23020243_Kaewthong_viz/Story1)**
+👉 **[View it live on Tableau Public](https://public.tableau.com/views/23020243_Kaewthong_viz/Story1)** · **[Full write-up](https://yarida-cv.vercel.app/esg.html)**
+
+### Credit Risk: What the Loan Data Shows — R
+With two classmates, cleaned **32,581 loan records down to 28,578** and found that one loan in five had defaulted. Explored what separates defaulters, then measured how much a regression on income could explain (R² 0.34).
+
+`R` `R Markdown` `Data cleaning` `Regression`
+
+👉 **[Full write-up](https://yarida-cv.vercel.app/credit-risk.html)**
 
 ### Econometric Housing Price Analysis, Australia — R
 Five regression models of housing price growth across Australian cities, built in RStudio and R Markdown using macroeconomic, seasonal and COVID-19 variables. Compared models on R-squared, adjusted R-squared, RMSE and MAE, and produced actual-versus-predicted plots to support economic interpretation.
 
 `R` `R Markdown` `Regression modelling` `Model evaluation`
 
-👉 **[View the project](https://github.com/Yarida2543/housing-price-regression-au)**
+👉 **[Code on GitHub](https://github.com/Yarida-nes/housing-price-regression-au)** · **[Full write-up](https://yarida-cv.vercel.app/housing.html)** · **[Try the demo](https://yarida-cv.vercel.app/try-it.html#housing)**
 
 ### WeatherWise — Python
 A conversational weather application that pulls live forecast data, visualises it, and answers natural language questions about conditions.
 
 `Python` `APIs` `Data visualisation`
 
-👉 **[View the project](https://github.com/Yarida-nes/weatherwise-Yarida-Kaewthong)**
+👉 **[Code on GitHub](https://github.com/Yarida-nes/weatherwise-Yarida-Kaewthong)** · **[Full write-up](https://yarida-cv.vercel.app/weatherwise.html)**
 
 ---
 
@@ -85,7 +92,7 @@ A conversational weather application that pulls live forecast data, visualises i
 
 ## 📫 Get in touch
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yarida--cv.vercel.app-0E7C86?style=flat-square&logo=vercel&logoColor=white)](https://yarida-cv.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yarida--cv.vercel.app-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://yarida-cv.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yarida--kaewthong-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yarida-kaewthong)
 [![Email](https://img.shields.io/badge/Email-nestyarida@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nestyarida@gmail.com)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-Portfolio-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/views/23020243_Kaewthong_viz/Story1)
