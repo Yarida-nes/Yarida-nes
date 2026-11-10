@@ -77,7 +77,6 @@ A conversational weather application that pulls live forecast data, visualises i
 
 - **Master of Commerce (Artificial Intelligence and Business Analytics)**, Curtin University, Perth · 2025 to present
 - **Bachelor of Social Science (Geography), First Class Honours**, Kasetsart University, Thailand · 2019 to 2022
-- Faculty of Business and Law Academic Performance Recognition, Curtin University · 2025
 - Presented at the 8th Annual International Academic Conference on Education and Technology
 
 ---
