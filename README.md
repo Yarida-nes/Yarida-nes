@@ -1,99 +1,202 @@
-# Hi, I'm Yarida Kaewthong (Nest) 👋
+<h1 align="center">Hi, I'm Yarida (Nest) 👋</h1>
 
-**Master of Commerce, Artificial Intelligence and Business Analytics · Curtin University, Perth, WA Australia**
+<p align="center">
+  Data analyst with a geography background.<br/>
+  Master of Commerce (Artificial Intelligence and Business Analytics) at Curtin University, after a geography degree with First Class Honours.<br/>
+  I analyse data in R, Python and SQL, map it in QGIS and ArcGIS, and present it in Tableau and Power BI.
+</p>
 
-I started in Geography, where I learned to find patterns in real-world data, and moved into analytics. I now build regression and classification models in **R**, interactive dashboards in **Tableau and Power BI**, and query and prepare data with **SQL and Python**. Currently seeking an **internship or graduate role in data analytics or business analytics in Perth**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Perth,_WA-Australia-093B5D?style=flat-square" alt="Perth, WA"/>
+  <img src="https://img.shields.io/badge/Graduate_roles_from-July_2027-45566A?style=flat-square" alt="Graduate roles from July 2027"/>
+  <img src="https://img.shields.io/badge/Open_to-Data_analytics_internships-E07B22?style=flat-square" alt="Open to data analytics internships"/>
+</p>
 
-🌐 **Portfolio:** [yarida-cv.vercel.app](https://yarida-cv.vercel.app): six case studies with charts, maps and write-ups.
+<br/>
 
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](#)
-[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](#)
+<p align="center">
+  <a href="https://yarida-cv.vercel.app">
+    <img src="https://yarida-cv.vercel.app/images/gh/site-preview.png" width="900" alt="Screenshot of yarida-cv.vercel.app: the name Yarida Kaewthong, a short introduction, and a grid of six project thumbnails"/>
+  </a>
+</p>
 
----
+<h3 align="center"><a href="https://yarida-cv.vercel.app">yarida-cv.vercel.app</a></h3>
 
-## 📊 Projects
-
-### Walking and Cycling Safety in Melbourne — R and GIS
-Analysed **142,875 real Victorian crash records (2012–2025)**, focusing on 30,469 involving a pedestrian or cyclist. Getis-Ord Gi* hot-spot analysis on a hexagon grid shows **half of these crashes happen in 6% of the area**, and a pedestrian's chance of serious injury rises from **41% in 40 km/h zones to 65% in 80+ km/h zones**.
-
-`R` `sf` `Hot-spot analysis` `GIS map layout`
-
-👉 **[Code on GitHub](https://github.com/Yarida-nes/-melbourne-walking-cycling-safety)** · **[Full write-up](https://yarida-cv.vercel.app/melbourne-crash.html)** · **[Try the demo](https://yarida-cv.vercel.app/try-it.html#speed)**
-
-### Published Research: Drugstore Access in Thailand — GIS
-Co-authored paper at the 2023 Asian Conference on Remote Sensing. Mapped 433 drugstores and used network analysis and location-allocation to show 22 well-placed pharmacies would raise coverage from 199 to 417 of 511 villages.
-
-`GIS` `Network analysis` `Location-allocation`
-
-👉 **[Read the write-up](https://yarida-cv.vercel.app/drugstores.html)** · **[Try the demo](https://yarida-cv.vercel.app/try-it.html#pharmacies)**
-
-### ESG and Financial Analytics across Asia-Pacific Markets — Tableau
-A three-dashboard Tableau Story testing whether ESG, governance and financial performance move together across **eight Asia-Pacific markets**. Built calculated fields, parameters, dashboard actions and forecasting, analysing ESG Score, ROA, Tobin's Q, market-to-book, market capitalisation, CEO duality, board diversity and ESG controversies, then wrote a business analyst report with recommendations for firms.
-
-`Tableau` `Data storytelling` `ESG and governance analysis`
-
-👉 **[Code on GitHub](https://github.com/Yarida-nes/apac-esg-financial-analysis)** · **[View it live on Tableau Public](https://public.tableau.com/views/23020243_Kaewthong_viz/Story1)** · **[Full write-up](https://yarida-cv.vercel.app/esg.html)**
-
-### Credit Risk: What the Loan Data Shows — R
-With two classmates, cleaned **32,581 loan records down to 28,578** and found that one loan in five had defaulted. Explored what separates defaulters, measured how much a regression on income could explain (R² 0.34), and built a logistic model of default (test AUC 0.85).
-
-`R` `R Markdown` `Data cleaning` `Regression`
-
-👉 **[Code on GitHub](https://github.com/Yarida-nes/credit-risk-loan-data)** · **[Full write-up](https://yarida-cv.vercel.app/credit-risk.html)**
-
-### Econometric Housing Price Analysis, Australia — R
-Five regression models of housing price growth across Australian cities, built in RStudio and R Markdown using macroeconomic, seasonal and COVID-19 variables. Compared models on R-squared, adjusted R-squared, RMSE and MAE, and produced actual-versus-predicted plots to support economic interpretation.
-
-`R` `R Markdown` `Regression modelling` `Model evaluation`
-
-👉 **[Code on GitHub](https://github.com/Yarida-nes/housing-price-regression-au)** · **[Full write-up](https://yarida-cv.vercel.app/housing.html)** · **[Try the demo](https://yarida-cv.vercel.app/try-it.html#housing)**
-
-### WeatherWise — Python
-A conversational weather application that pulls live forecast data, visualises it, and answers natural language questions about conditions.
-
-`Python` `APIs` `Data visualisation`
-
-👉 **[Code on GitHub](https://github.com/Yarida-nes/weatherwise.Yarida)** · **[Full write-up](https://yarida-cv.vercel.app/weatherwise.html)**
+<p align="center">
+  My portfolio. Every project below has a full case study there,<br/>
+  and four of them have a demo you can click through.
+</p>
 
 ---
 
-## 🧰 What I work with
+## 🛠️ Tools
 
-| | |
-|---|---|
-| **Visualisation** | Tableau, Power BI, ggplot2 |
-| **Analysis** | R (RStudio, R Markdown), Python, Microsoft Excel |
-| **Data** | SQL, data cleaning, data transformation |
-| **Methods** | Linear and logistic regression, forecasting, model evaluation, EDA |
-| **Spatial** | GIS, hot-spot analysis (Getis-Ord Gi*), network analysis, R sf, map layout |
+<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
+  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge" alt="ArcGIS"/>
+  <img src="https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge" alt="Excel"/>
+</p>
 
----
-
-## 🎓 Background
-
-- **Master of Commerce (Artificial Intelligence and Business Analytics)**, Curtin University, Perth · 2025 to present
-- **Bachelor of Social Science (Geography), First Class Honours**, Kasetsart University, Thailand · 2019 to 2022
-- Presented at the 8th Annual International Academic Conference on Education and Technology
+**Methods:** linear and logistic regression · model comparison · hot-spot analysis (Getis-Ord Gi*) · network analysis · location-allocation
 
 ---
 
-## 🌱 Currently
+## 📊 Featured projects
 
-- Studying **Predictive Analytics in Business**, **Predictive Behaviours Modelling** and **AI-Driven Knowledge Systems**
-- Open to internships and graduate analyst roles in Perth
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://yarida-cv.vercel.app/melbourne-crash.html">
+  <img src="https://yarida-cv.vercel.app/images/gh/card-melbourne.png" alt="Map of walking and cycling crash hot spots across metro Melbourne"/>
+</a>
+
+<h3>🚶 Walking and cycling safety in Melbourne</h3>
+
+<p>Analysed <b>142,875 Victorian crash records</b> from 2012 to 2025, focusing on 30,469 that involved a pedestrian or cyclist. Hot-spot analysis on a hexagon grid shows <b>half of these crashes happen in 6% of the area</b>, and a pedestrian's chance of serious injury rises from <b>41% in 40 km/h zones to 65% in 80+ km/h zones</b>.</p>
+
+<p><code>R</code> <code>QGIS</code> <code>Hot-spot analysis</code></p>
+
+<p>
+  <a href="https://yarida-cv.vercel.app/melbourne-crash.html"><b>Case study →</b></a> ·
+  <a href="https://yarida-cv.vercel.app/melbourne-crash.html#speed">Demo</a> ·
+  <a href="https://github.com/Yarida-nes/-melbourne-walking-cycling-safety">Repository</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://yarida-cv.vercel.app/drugstores.html">
+  <img src="https://yarida-cv.vercel.app/images/gh/card-drugstores.png" alt="Map of pharmacy service areas across Nonthaburi, Thailand"/>
+</a>
+
+<h3>💊 Drugstore access in Thailand</h3>
+
+<p>Co-authored paper presented at the 2023 Asian Conference on Remote Sensing. Mapped <b>433 drugstores</b> and used network analysis and location-allocation to show that 22 well-placed pharmacies would raise coverage from <b>199 to 417 of 511 villages</b>.</p>
+
+<p><code>ArcGIS</code> <code>Network analysis</code> <code>Location-allocation</code></p>
+
+<p>
+  <a href="https://yarida-cv.vercel.app/drugstores.html"><b>Case study →</b></a> ·
+  <a href="https://yarida-cv.vercel.app/drugstores.html#pharmacies">Demo</a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://yarida-cv.vercel.app/esg.html">
+  <img src="https://yarida-cv.vercel.app/images/gh/card-esg.png" alt="Tableau dashboard of ESG scores and market value across Asia-Pacific markets"/>
+</a>
+
+<h3>🌏 ESG and company profit, Asia-Pacific</h3>
+
+<p>Three linked Tableau dashboards on <b>8 Asia-Pacific markets</b>, 2010 to 2024, with a business analyst report. ESG score explains only <b>about 2%</b> of the difference in profit between firms, so a high rating alone is a poor guide to profitability.</p>
+
+<p><code>Tableau</code> <code>Dashboard actions</code> <code>Forecasting</code></p>
+
+<p>
+  <a href="https://yarida-cv.vercel.app/esg.html"><b>Case study →</b></a> ·
+  <a href="https://public.tableau.com/views/23020243_Kaewthong_viz/Story1">Live dashboard</a> ·
+  <a href="https://github.com/Yarida-nes/apac-esg-financial-analysis">Repository</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://yarida-cv.vercel.app/credit-risk.html">
+  <img src="https://yarida-cv.vercel.app/images/gh/card-credit-risk.png" alt="Correlation matrix of the numeric loan variables"/>
+</a>
+
+<h3>💳 Credit risk: what the loan data shows</h3>
+
+<p>With two classmates, cleaned <b>32,581 loan records down to 28,578</b> and found that about one loan in five had defaulted. A logistic regression model then predicted default with an <b>AUC of 0.85</b> on unseen test data.</p>
+
+<p><code>R</code> <code>R Markdown</code> <code>Logistic regression</code></p>
+
+<p>
+  <a href="https://yarida-cv.vercel.app/credit-risk.html"><b>Case study →</b></a> ·
+  <a href="https://yarida-cv.vercel.app/credit-risk.html#credit">Demo</a> ·
+  <a href="https://github.com/Yarida-nes/credit-risk-loan-data">Repository</a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://yarida-cv.vercel.app/housing.html">
+  <img src="https://yarida-cv.vercel.app/images/gh/card-housing.png" alt="Chart of actual against predicted quarterly housing price growth in New South Wales"/>
+</a>
+
+<h3>🏠 Australian housing price regression</h3>
+
+<p><b>Five regression models</b> of quarterly house price growth in Australia, compared on adjusted R², RMSE and MAE. The COVID-19 period added about <b>2.6 percentage points</b> to quarterly growth, while election years made no difference.</p>
+
+<p><code>R</code> <code>R Markdown</code> <code>Model comparison</code></p>
+
+<p>
+  <a href="https://yarida-cv.vercel.app/housing.html"><b>Case study →</b></a> ·
+  <a href="https://yarida-cv.vercel.app/housing.html#housing">Demo</a> ·
+  <a href="https://github.com/Yarida-nes/housing-price-regression-au">Repository</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://yarida-cv.vercel.app/weatherwise.html">
+  <img src="https://yarida-cv.vercel.app/images/gh/card-weatherwise.png" alt="WeatherWise chart of a five-day temperature forecast for Perth"/>
+</a>
+
+<h3>🌦️ WeatherWise</h3>
+
+<p>A Python weather advisor. It pulls a five-day forecast from a live weather service, summarises <b>40 readings into 5 daily</b> highs, lows and rain totals, charts them and answers plain-English questions with an AI model.</p>
+
+<p><code>Python</code> <code>Matplotlib</code> <code>REST API</code></p>
+
+<p>
+  <a href="https://yarida-cv.vercel.app/weatherwise.html"><b>Case study →</b></a> ·
+  <a href="https://github.com/Yarida-nes/weatherwise.Yarida">Repository</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Get in touch
+## 💼 Experience
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yarida--cv.vercel.app-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://yarida-cv.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yarida--kaewthong-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yarida-kaewthong)
-[![Email](https://img.shields.io/badge/Email-nestyarida@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nestyarida@gmail.com)
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-Portfolio-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/views/23020243_Kaewthong_viz/Story1)
+**Restaurant Manager, Six Senses Gourmet Thai** · Leederville, WA · Sep 2023 to present<br/>
+Track daily sales to spot best-selling dishes and suggest new menu items. These menu and service changes helped lift the Google rating from 3.6 to 4.0 stars.
 
+**Marketing Data Analyst, Divana** · Bangkok, Thailand · Sep 2022 to Sep 2023<br/>
+Tracked revenue and sales for all 18 branches in Excel and Power BI (DAX). Compared 23 products and recommended a campaign that lifted one product's sales by about 38% within 3 months.
 
+**Mapping and GIS Solution Intern, THIKNET** · Thailand · Apr 2022 to Jun 2022<br/>
+Mapped EV charging stations on main roads in all 77 provinces of Thailand in ArcGIS and SQL, and found about 80% were in central Thailand.
 
+---
+
+## 🎓 Education
+
+**Master of Commerce (Artificial Intelligence and Business Analytics)**, Curtin University, Perth · 2025 to present<br/>
+**Bachelor of Social Science (Geography), First Class Honours**, Kasetsart University, Thailand · 2019 to 2022
+
+---
+
+## 📫 Reach me
+
+<p>
+  <a href="https://yarida-cv.vercel.app"><img src="https://img.shields.io/badge/Portfolio-yarida--cv.vercel.app-093B5D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/yarida-kaewthong"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:nestyarida@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
