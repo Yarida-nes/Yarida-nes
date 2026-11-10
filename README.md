@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge" alt="ArcGIS"/>
+  <img src="https://img.shields.io/badge/Orange-F58025?style=for-the-badge" alt="Orange Data Mining"/>
   <img src="https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge" alt="Excel"/>
 </p>
 
@@ -185,7 +186,23 @@
 </p>
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+<a href="https://yarida-cv.vercel.app/cloudcore.html">
+  <img src="https://yarida-cv.vercel.app/images/gh/card-cloudcore.png" alt="Orange Data Mining workflow for a customer feedback analysis"/>
+</a>
+
+<h3>🤖 AI-driven customer support: analysis and automation</h3>
+
+<p>Used AI to analyse <b>360 support tickets and 240 reviews</b> in Orange, then built a machine learning workflow that scores every customer for churn risk and finds <b>77.5% of those at risk</b>. When new data arrives it produces a weekly list of who to call: <b>12 of 14</b> were really at risk. Individual report, then a team of four.</p>
+
+<p><code>Orange</code> <code>Machine learning</code> <code>Sentiment analysis</code> <code>Automation</code></p>
+
+<p>
+  <a href="https://yarida-cv.vercel.app/cloudcore.html"><b>Case study →</b></a>
+</p>
+
+</td>
 </tr>
 </table>
 
