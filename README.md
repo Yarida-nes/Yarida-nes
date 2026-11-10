@@ -34,7 +34,7 @@
 <p>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
@@ -166,6 +166,26 @@
 </p>
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://yarida-cv.vercel.app/soccer-database.html">
+  <img src="https://yarida-cv.vercel.app/images/gh/card-soccer.png" alt="Entity relationship diagram of a 16-table soccer competition database"/>
+</a>
+
+<h3>⚽ Soccer competition database</h3>
+
+<p>Turned <b>18 business rules</b> into an entity relationship diagram and a normalised <b>16-table Oracle schema</b> with a data dictionary. Wrote <b>13 SQL queries</b> that produce the season ladder, top scorers and most valuable player from 30 games and 93 goals. Individual project.</p>
+
+<p><code>Oracle SQL</code> <code>ERD</code> <code>Normalisation</code></p>
+
+<p>
+  <a href="https://yarida-cv.vercel.app/soccer-database.html"><b>Case study →</b></a>
+</p>
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
